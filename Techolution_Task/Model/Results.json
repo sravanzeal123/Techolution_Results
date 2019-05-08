@@ -1,0 +1,150 @@
+[ {
+    "name":"abhishek",
+    "marks":
+    {
+        "Maths":"43",
+        "English":"30",
+        "Science":"37"
+    },
+    "rollNumber":"KV2017-5A1"
+   },
+  {
+    "name":"rajiv",
+    "marks":
+    {
+        "Maths":"18",
+        "English":"21",
+        "Science":"45"
+    },
+    "rollNumber":"KV2017-5A2"
+   },
+   {
+    "name":"zoya",
+    "marks":
+    {
+        "Maths":"42",
+        "English":"31",
+        "Science":"50"
+    },
+    "rollNumber":"KV2017-5A3"
+   },
+   {
+    "name":"sravan",
+    "marks":
+    {
+        "Maths":"31",
+        "English":"40",
+        "Science":"42"
+    },
+    "rollNumber":"KV2017-5A4"
+   },
+   {
+    "name":"venkat",
+    "marks":
+    {
+        "Maths":"23",
+        "English":"25",
+        "Science":"12"
+    },
+    "rollNumber":"KV2017-5A5"
+},
+{
+    "name":"venkat rao",
+    "marks":
+    {
+        "Maths":"45",
+        "English":"45",
+        "Science":"15"
+    },
+    "rollNumber":"KV2017-5A6"
+},
+{
+    "name":"kumar",
+    "marks":
+    {
+        "Maths":"20",
+        "English":"20",
+        "Science":"20"
+    },
+    "rollNumber":"KV2017-5A7"
+},
+{
+    "name":"divya",
+    "marks":
+    {
+        "Maths":"50",
+        "English":"50",
+        "Science":"20"
+    },
+    "rollNumber":"KV2017-5A8"
+},
+{
+    "name":"ravan",
+    "marks":
+    {
+        "Maths":"15",
+        "English":"18",
+        "Science":"13"
+    },
+    "rollNumber":"KV2017-5A9"
+},
+{
+    "name":"sampath",
+    "marks":
+    {
+        "Maths":"43",
+        "English":"43",
+        "Science":"43"
+    },
+    "rollNumber":"KV2017-5A10"
+},
+{
+    "name":"ravi",
+    "marks":
+    {
+        "Maths":"50",
+        "English":"50",
+        "Science":"50"
+    },
+    "rollNumber":"KV2017-5A11"
+},
+{
+    "name":"anchal",
+    "marks":
+    {
+        "Maths":"49",
+        "English":"48",
+        "Science":"47"
+    },
+    "rollNumber":"KV2017-5A12"
+},
+{
+    "name":"amul",
+    "marks":
+    {
+        "Maths":"43",
+        "English":"30",
+        "Science":"18"
+    },
+    "rollNumber":"KV2017-5A13"
+},
+{
+    "name":"jon doe",
+    "marks":
+    {
+        "Maths":"43",
+        "English":"21",
+        "Science":"37"
+    },
+    "rollNumber":"KV2017-5A14"
+},
+{
+    "name":"sridhar",
+    "marks":
+    {
+        "Maths":"43",
+        "English":"20",
+        "Science":"37"
+    },
+    "rollNumber":"KV2017-5A15"
+}]
